@@ -41,10 +41,15 @@ h3 {
 .img-thumbnail {
   height: 200px;
   width: 200px;
+  border: 8px solid white;
 }
 
 #pictures {
-  padding: 3%;
+  padding: 3% 0%;
+}
+
+.one {
+  margin-right: 40px;
 }
 
 
